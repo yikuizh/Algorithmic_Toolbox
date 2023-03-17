@@ -6,7 +6,7 @@ def modarray():
 
     #  the mod 10 for the sum is still the period sequene -- last digit
 
-    #  follow the squere area
+    #  follow the squere area: SUM(Fn^2) = (Fn-1 + Fn)* (Fn + Fn+1)
 
  
     mod_array = [0, 1]
